@@ -5,7 +5,7 @@ export default function Header() {
 
         <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl">Lewis Allen</h1>
 
-        <h2 className="text-lg font-light mt-2 md:text-xl lg:text-2xl">Aspiring Software Developer</h2>
+        <h2 className="text-lg font-light mt-2 md:text-xl lg:text-2xl">Junior Software Developer</h2>
 
       </div>
     </>

@@ -2,7 +2,7 @@ export default function About(){
     return(
         <>
         <div>
-            <h1>THIS IS THE ABOUT ME PAGE</h1>
+            <h1>ABOUT ME</h1>
         </div>
         </>
     )
