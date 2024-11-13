@@ -34,6 +34,13 @@ export default function TechEducators() {
                     </h3>
 
                     <ul className="space-y-2">
+
+                        <li>
+                            <a href="https://github.com/Lewis-Allen-2001/soft-dev-class" className="text-blue-600 hover:text-blue-800 underline">
+                                My Notes through out the course
+                            </a>
+                        </li>
+
                         <li>
                             <a href="https://lewis-allen-2001.github.io/Week1-Project/" className="text-blue-600 hover:text-blue-800 underline">
                                 Week 1: Space Website (Basic HTML and CSS)
