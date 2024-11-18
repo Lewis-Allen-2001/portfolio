@@ -26,7 +26,6 @@ export default function About() {
                     <h2 className="text-2xl font-semibold text-gray-800 mt-6">DISLIKES:</h2>
                     <ul className="text-gray-700 mt-4 space-y-2">
                         <li>People chewing loudly</li>
-                        <li>People (sometimes)</li>
                         <li>Sheffield United</li>
                     </ul>
                 </div>
