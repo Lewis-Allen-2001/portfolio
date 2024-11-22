@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function NavBar() {
   return (
-    <div className="flex justify-center space-x-8 p-4  bg-gray-900 ">
+    <div className="flex justify-center space-x-8 p-4  bg-gray-900 text-white">
 
       <Link href="/" className=" font-bold hover:underline">Home</Link>
 

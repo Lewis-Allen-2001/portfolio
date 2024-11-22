@@ -3,9 +3,9 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 export default function Footer() {
   return (
     <> 
-      <div className="text-center py-6">
+      <div className="text-center py-6 bg-black">
 
-        <h1 className="text-2xl font-semibold mb-4">Follow my journey!</h1>
+        <h1 className="text-2xl font-semibold mb-4 text-white">Follow my journey!</h1>
 
         <div className="flex justify-center space-x-6">
         <a
