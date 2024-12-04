@@ -11,6 +11,8 @@ export default function NavBar() {
       <Link href="/ownprojects" className=" font-bold hover:underline">Personal Projects</Link>
 
       <Link href="/about" className=" font-bold hover:underline">About Me</Link>
+
+      <Link href="/feedback" className=" font-bold hover:underline">Leave Some Feedback!</Link>
     </div>
   );
 }
