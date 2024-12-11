@@ -22,12 +22,6 @@ export default function About() {
                         <li>Whiskey and Rum</li>
                         <li>Sheffield Wednesday UTO!</li>
                     </ul>
-
-                    <h2 className="text-2xl font-semibold text-gray-800 mt-6">DISLIKES:</h2>
-                    <ul className="text-gray-700 mt-4 space-y-2">
-                        <li>People chewing loudly</li>
-                        <li>Sheffield United</li>
-                    </ul>
                 </div>
             </div>
         </>
