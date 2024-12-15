@@ -6,10 +6,6 @@ export default function PersonalProjects() {
             <div className="bg-gray-100 p-8 min-h-screen flex flex-col items-center text-center">
                 <h1 className="text-4xl font-bold text-gray-800 mb-6">PERSONAL PROJECTS</h1>
 
-                <p className="text-lg text-gray-700 leading-relaxed max-w-2xl mb-8">
-                    While I was on the course, I tried to keep on top of what I&apos;ve learned by developing a couple of side projects.
-                </p>
-
                 <div className="mb-12">
                     <h2 className="text-2xl font-semibold text-gray-800 mb-4">Nexus Decks</h2>
                     <h3 className="text-lg text-gray-600 italic mb-4">Basic HTML & CSS</h3>
@@ -67,6 +63,35 @@ export default function PersonalProjects() {
                         >
                             View code on GitHub
                         </a>
+                <div>
+                    <h2 className="text-2xl font-semibold text-gray-800 mb-4">Black ops 3 zombies map picker</h2>
+                    <h3 className="text-lg text-gray-600 italic mb-4">JavaScript, Npm Packages</h3>
+                    <p className="text-lg text-gray-700 leading-relaxed max-w-2xl mb-6">
+                    A dynamic web application built with Next.js that helps players randomly select a Call of Duty: Black Ops 3 Zombies map to play.
+                    The project features an intuitive interface, seamless map selection. 
+                    By integrating the react-roulette-pro npm package, the app offers a fun, roulette-style randomizer for picking maps, enhancing the spontaneity and excitement for players.
+                     This tool showcases my skills in React, Next.js, and responsive design.
+                    </p>
+                    <a href="https://bo3-zombies-map-picker-lewis-projects-4c4bcd87.vercel.app/" target="_blank" rel="noopener noreferrer">
+                        <Image 
+                            src="/bo3rmp.png" 
+                            alt="Black Ops 3 Zombies Random Map Picker" 
+                            width={500} 
+                            height={500} 
+                            className="rounded-lg shadow-lg hover:scale-105 transition-transform mx-auto"
+                        />
+                    </a>
+                    <div className="mt-4">
+                        <a 
+                            href="https://github.com/Lewis-Allen-2001/bo3-zombies-map-picker" 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-blue-600 hover:text-blue-800 underline"
+                        >
+                            View code on GitHub
+                        </a>
+                           </div>
+                        </div>
                     </div>
                 </div>
             </div>
