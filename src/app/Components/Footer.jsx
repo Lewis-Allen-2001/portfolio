@@ -24,6 +24,7 @@ export default function Footer() {
           >
             <FaLinkedin />
         </a>
+        <p className="text-white text-xl">©Lewis Allen 2025</p>
         </div>
       </div>
     </>
