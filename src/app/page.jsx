@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <div className="flex flex-col items-center space-y-8 py-10 bg-gray-900 text-white min-h-screen">
-        {/* Profile Section */}
+       
         <Image
           src="/selfie.webp"
           width={300}
@@ -18,7 +18,7 @@ export default function Home() {
           className="rounded-full border-4 border-gray-700 shadow-lg"
         />
 
-        {/* Tech Icons */}
+    
         <div className="flex space-x-6 text-4xl text-blue-400">
           <IoLogoJavascript className="hover:text-yellow-400 transition duration-200" />
           <FaReact className="hover:text-blue-600 transition duration-200" />
@@ -30,7 +30,7 @@ export default function Home() {
           <SiTypescript className="hover:text-blue-600 transition duration-200" />
         </div>
 
-        {/* Achievements Section */}
+      
         <div className="py-10 px-4 flex flex-col items-center text-center space-y-6">
           <h2 className="text-3xl font-bold text-blue-400">Achievements</h2>
 
