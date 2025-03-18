@@ -3,7 +3,6 @@ import NavBar from "@/app/components/NavBar"
 import Header from "@/app/components/Header"
 import Footer from "@/app/components/Footer"
 import "./globals.css";
-import { ThemePanel } from "@radix-ui/themes";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",

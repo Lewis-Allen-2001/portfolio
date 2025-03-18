@@ -17,7 +17,7 @@ export default async function ownProjects() {
                  <h2 className="text-2xl font-semibold text-gray-800 mb-4 p-4">Diverse Destinations</h2>
                  <h3 className="text-lg text-gray-600 italic mb-4">Customer rating app dedicated to neurodivergent and disabled people</h3>
                  <p className="text-lg text-gray-700 leading-relaxed max-w-2xl mb-6">
-                 a project dedicated to exploring the world’s most diverse and inclusive travel destinations. This platform is specifically designed with neurodivergent individuals and people with disabilities in mind, providing valuable insights into travel locations that prioritize accessibility, comfort, and unique experiences tailored to diverse needs. Whether you're planning your next trip or simply exploring new destinations.
+                 a project dedicated to exploring the world&apos;s most diverse and inclusive travel destinations. This platform is specifically designed with neurodivergent individuals and people with disabilities in mind, providing valuable insights into travel locations that prioritize accessibility, comfort, and unique experiences tailored to diverse needs. Whether you&apos;re planning your next trip or simply exploring new destinations.
                      </p>
 
                      <a href="https://github.com/Lewis-Allen-2001/diverse-destinations" target="_blank" rel="noopener noreferrer">
