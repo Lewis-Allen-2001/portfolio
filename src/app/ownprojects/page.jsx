@@ -10,7 +10,8 @@ export default async function ownProjects() {
                  <h1 className="text-4xl font-bold text-gray-800 mb-6">PERSONAL PROJECTS</h1>
  
                  <p className="text-lg text-gray-700 leading-relaxed max-w-2xl mb-8">
-                     While I was on the course, I tried to keep on top of what I&apos;ve learned by developing a couple of side projects.
+                     Here are some of the projects I&apos;ve worked on in my free time. I enjoy building web applications that are fun, interactive, and useful.
+                     I&apos;m always looking for new ideas and challenges to tackle, so feel free to reach out if you have any suggestions or collaboration opportunities😊.
                  </p>
 
                  <div>
@@ -59,6 +60,8 @@ export default async function ownProjects() {
                          >
                              View code on GitHub
                          </a>
+                         <h3 className="text-gray-600 font-bold mb-1">Completion: </h3>
+                         <Badge color="green" size="3">Complete</Badge>
                      </div>
                  </div>
  
@@ -89,6 +92,8 @@ export default async function ownProjects() {
                          >
                              View code on GitHub
                          </a>
+                         <h3 className="text-gray-600 font-bold mb-1">Completion: </h3>
+                         <Badge color="green" size="3">Complete</Badge>
                      </div>
                      <div>
                      <h2 className="text-2xl font-semibold text-gray-800 mb-4 p-4">Black ops 3 zombies map picker</h2>
@@ -117,6 +122,8 @@ export default async function ownProjects() {
                          >
                              View code on GitHub
                          </a>
+                         <h3 className="text-gray-600 font-bold mb-1">Completion: </h3>
+                         <Badge color="yellow" size="3">In development</Badge>
                            </div>
                           </div>
                       </div>
